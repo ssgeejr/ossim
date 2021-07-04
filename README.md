@@ -4,11 +4,16 @@ Tutorials for setting up and using the Raspberry Pi for development
 * Novice Level
 
 1. Setup your Pi
-2. Check/Install python
-3. Configure your editors
-4. Install software (add list)
-5. Setup Docker
-6. Start programming
+2. Create github and dockerhub accounts
+3. Install new software
+   a. docker
+   b. notepad++
+5. Create SSH Keys
+6. Check/Install python
+7. Configure your editors
+8. Install software (add list)
+9. Setup Docker
+10. Start programming
 
 
 
